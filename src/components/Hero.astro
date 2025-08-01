@@ -271,6 +271,29 @@ import { siteConfig } from "../config";
         </a>
       )
     }
+    {
+      siteConfig.social?.codeforces && (
+        <a
+          href={siteConfig.social.codeforces}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Codeforces"
+          class="transition-colors duration-300 hover:text-[var(--accent-color)]"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="none"
+            class="h-6 w-6 sm:h-7 sm:w-7 md:h-8 md:w-8"
+          >
+            <circle cx="12" cy="12" r="12" fill="#1f8acb"/>
+            <text x="12" y="16" text-anchor="middle" font-size="10" fill="#fff" font-family="monospace">CF</text>
+          </svg>
+        </a>
+      )
+    }
   </div>
 </div>
 

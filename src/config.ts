@@ -8,7 +8,7 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/shahir00ali",
     twitter: "https://codeforces.com/profile/shahir28",
     github: "https://github.com/shahir28",
-    codeforces: "https://codeforces.com/profile/shahir28",
+    codeforces: "https://codeforces.com/profile/Shahirali82",
     leetcode: "https://leetcode.com/your-leetcode-username",
   },
   aboutMe:
