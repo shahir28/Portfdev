@@ -91,21 +91,17 @@ export const siteConfig = {
     {
       school: "RNS Institute of Technology",
       degree: "Bachelor of Engineering in Computer Science(AI & ML)",
-      dateRange: "2014 - 2018",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
+      dateRange: "2021 – 2025",
+      
     },
     {
-      school: "Online Platform",
+      school: "Udemy",
       degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      dateRange: "2024",
       achievements: [
         "Completed 500+ hours of coursework",
         "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Specialized in React, Node.js, Spring Boot, and AWS",
       ],
     },
   ],
