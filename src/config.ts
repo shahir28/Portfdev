@@ -58,7 +58,7 @@ export const siteConfig = {
       name: "CBLOS (Corporate Banking Loan Origination System)",
       description:
         "Developed and deployed RESTful APIs for a Corporate Banking Loan Origination System using Spring Boot, automating workflows and reducing loan processing time by 40%. Architected performance-tuned queries and indexing strategies for Oracle SQL and PL/SQL, reducing API response time by 30% and improving system throughput. Designed comprehensive test suites using JUnit and Mockito, boosting code coverage to 85% and increasing deployment confidence.",
-      link: "https://github.com/shahir28/CBLOS",
+      link: "https://cbanklos.onrender.com/",
       skills: ["Spring Boot", "Oracle SQL", "PL/SQL", "JUnit", "Mockito", "REST API"],
       dateRange: "Feb 2025 – Jun 2025",
     },
